@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidPrivate_pertemuan1</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="sample_list">
+        <item>data 1</item>
+        <item>data 2</item>
+        <item>data 3</item>
+        <item>data 4</item>
+        <item>data 5</item>
+        <item>data 6</item>
+        <item>data 7</item>
+        <item>data 8</item>
+        <item>data 9</item>
+        <item>data 10</item>
+    </string-array>
+</resources>
