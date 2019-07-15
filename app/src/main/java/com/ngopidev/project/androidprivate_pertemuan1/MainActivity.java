@@ -85,7 +85,8 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()){
             case R.id.setting :{
-                Toast.makeText(this, "Hai Saya Setting", Toast.LENGTH_SHORT).show();
+                Intent i = new Intent(MainActivity.this, MainSqlite.class);
+                startActivity(i);
             }break;
             case R.id.sample :{
 //                Toast.makeText(this, "Sai Saya Sample Option menu", Toast.LENGTH_SHORT).show();
