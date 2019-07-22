@@ -5,5 +5,5 @@ package com.ngopidev.project.androidprivate_pertemuan1.helpers;
  * email : assidiq.irfan@gmail.com
  **/
 public class Const {
-    public static String base_url = "http://10.107.166.70/testvideo/";
+    public static String base_url = "http://ngopidevteam.com/simplesample/";
 }
